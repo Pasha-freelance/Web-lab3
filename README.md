@@ -4,4 +4,4 @@
 
 Загальне завдання: адаптувати програмний код ЛР№2 до вимог фреймворка VueJS (з дозволу викладача Angular) та забезпечити завантаження необхідних даних з Web-сервера 
 
-Посилання до звіту: https://docs.google.com/document/d/1aF8lpET76AUIz6ao4jG2SEMr-H2NALX5llkFcQIsj6c/edit
+Посилання до звіту: https://docs.google.com/document/d/1F9jHrRhjEAnTdjk6ObRGA5m5jf1KVQdRe85Pjsd0weA/edit
